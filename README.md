@@ -2,4 +2,4 @@
 
 Easy way to control nova configs:
 
-![Hallo world](./screenshot.jpg)
+![Screenshot of the config view](./screenshot.jpg)
